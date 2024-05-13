@@ -1,0 +1,15 @@
+Match,Type,Time,Red1,Red1IsSurrogate,Red2,Red2IsSurrogate,Red3,Red3IsSurrogate,Blue1,Blue1IsSurrogate,Blue2,Blue2IsSurrogate,Blue3,Blue3IsSurrogate
+Q1,Qualification,2024-04-29 09:00:00 -0400 EDT,118,false,1678,false,7457,false,1501,false,254,false,4144,false
+Q2,Qualification,2024-04-29 09:06:00 -0400 EDT,118,false,7457,false,254,false,1501,false,1678,false,4144,false
+Q3,Qualification,2024-04-29 09:12:00 -0400 EDT,1678,false,254,false,4144,false,1501,false,7457,false,118,false
+Q4,Qualification,2024-04-29 09:18:00 -0400 EDT,1501,false,118,false,7457,false,1678,false,254,false,4144,false
+Q5,Qualification,2024-04-29 09:24:00 -0400 EDT,254,false,118,false,1678,false,7457,false,4144,false,1501,false
+Q6,Qualification,2024-04-29 09:30:00 -0400 EDT,1501,false,1678,false,7457,false,118,false,4144,false,254,false
+Q7,Qualification,2024-04-29 09:36:00 -0400 EDT,4144,false,7457,false,254,false,1678,false,1501,false,118,false
+Q8,Qualification,2024-04-29 09:42:00 -0400 EDT,7457,false,1501,false,254,false,4144,false,118,false,1678,false
+Q9,Qualification,2024-04-29 09:48:00 -0400 EDT,118,false,254,false,1501,false,4144,false,7457,false,1678,false
+Q10,Qualification,2024-04-29 09:54:00 -0400 EDT,7457,false,4144,false,118,false,254,false,1678,false,1501,false
+Q11,Qualification,2024-04-29 10:00:00 -0400 EDT,7457,false,4144,false,1678,false,254,false,118,false,1501,false
+Q12,Qualification,2024-04-29 10:06:00 -0400 EDT,4144,false,1501,false,254,false,1678,false,118,false,7457,false
+Q13,Qualification,2024-04-29 10:12:00 -0400 EDT,1678,false,1501,false,4144,false,254,false,7457,false,118,false
+Q14,Qualification,2024-04-29 10:18:00 -0400 EDT,4144,false,1501,false,118,false,254,false,1678,false,7457,false

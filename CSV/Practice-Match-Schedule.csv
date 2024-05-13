@@ -1,0 +1,15 @@
+Match,Type,Time,Red1,Red1IsSurrogate,Red2,Red2IsSurrogate,Red3,Red3IsSurrogate,Blue1,Blue1IsSurrogate,Blue2,Blue2IsSurrogate,Blue3,Blue3IsSurrogate
+P1,Practice,2024-04-26 12:00:00 -0400 EDT,1501,false,4144,false,118,false,7457,false,1678,false,254,false
+P2,Practice,2024-04-26 12:06:00 -0400 EDT,1501,false,118,false,1678,false,7457,false,4144,false,254,false
+P3,Practice,2024-04-26 12:12:00 -0400 EDT,4144,false,1678,false,254,false,7457,false,118,false,1501,false
+P4,Practice,2024-04-26 12:18:00 -0400 EDT,7457,false,1501,false,118,false,4144,false,1678,false,254,false
+P5,Practice,2024-04-26 12:24:00 -0400 EDT,1678,false,1501,false,4144,false,118,false,254,false,7457,false
+P6,Practice,2024-04-26 12:30:00 -0400 EDT,7457,false,4144,false,118,false,1501,false,254,false,1678,false
+P7,Practice,2024-04-26 12:36:00 -0400 EDT,254,false,118,false,1678,false,4144,false,7457,false,1501,false
+P8,Practice,2024-04-26 12:42:00 -0400 EDT,118,false,7457,false,1678,false,254,false,1501,false,4144,false
+P9,Practice,2024-04-26 12:48:00 -0400 EDT,1501,false,1678,false,7457,false,254,false,118,false,4144,false
+P10,Practice,2024-04-26 12:54:00 -0400 EDT,118,false,254,false,1501,false,1678,false,4144,false,7457,false
+P11,Practice,2024-04-26 13:00:00 -0400 EDT,118,false,254,false,4144,false,1678,false,1501,false,7457,false
+P12,Practice,2024-04-26 13:06:00 -0400 EDT,254,false,7457,false,1678,false,4144,false,1501,false,118,false
+P13,Practice,2024-04-26 13:12:00 -0400 EDT,4144,false,7457,false,254,false,1678,false,118,false,1501,false
+P14,Practice,2024-04-26 13:18:00 -0400 EDT,254,false,7457,false,1501,false,1678,false,4144,false,118,false
